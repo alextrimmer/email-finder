@@ -1,0 +1,10 @@
+www.google.com
+
+hi@google.com
+bye@google.com
+you@google.com
+me@google.com
+burger@google.com
+king@google.com
+
+
